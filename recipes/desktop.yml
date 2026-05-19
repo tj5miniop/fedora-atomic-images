@@ -5,7 +5,7 @@ name: hyperion
 description: A Personal Fedora Atomic Image tailored for gaming - for use on NVIDIA desktops
 
 # the base image to build on top of (FROM) and the version tag to use
-base-image: ghcr.io/blue-build/base-images/fedora-kinoite-nvidia-open-latest
+base-image: ghcr.io/blue-build/base-images/fedora-kinoite-nvidia-open
 image-version: latest # latest is also supported if you want new updates ASAP
 
 # module configuration, executed in order
